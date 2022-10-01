@@ -92,8 +92,9 @@ button img{
     width: 15px;
     height: 16px;
     position: absolute;
-    /* display: block; */
+    display: block;
     margin-left: 5.2rem;
+
 }
 
 
@@ -137,6 +138,14 @@ button img{
         float: right;
         width: 12rem;
         margin-top: 2rem;
+    }
+
+    button img{
+        width: 15px;
+        height: 16px;
+        position: absolute;
+        display: block;
+        margin-left: 1.9rem;
     }
 
 }
